@@ -1,4 +1,10 @@
 div{
     background-color: aquamarine;
     padding: 25px;
+    margin: 10px;
+    border: 7px plane black;
+    border-radius: 12px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
 }
